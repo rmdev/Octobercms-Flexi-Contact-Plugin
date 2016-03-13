@@ -18,6 +18,11 @@ fields:
     comment: laminsanneh.flexicontact::lang.strings.subject_comment
     description: laminsanneh.flexicontact::lang.strings.subject_desc
     type: text
+  confirmation_text_headline:
+      label: laminsanneh.flexicontact::lang.strings.confirmation_text_headline
+      comment: laminsanneh.flexicontact::lang.strings.confirmation_text_headline_comment
+      description: laminsanneh.flexicontact::lang.strings.confirmation_headline_text_desc
+      type: text
   confirmation_text:
     label: laminsanneh.flexicontact::lang.strings.confirmation_text
     comment: laminsanneh.flexicontact::lang.strings.confirmation_text_comment

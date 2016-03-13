@@ -105,6 +105,7 @@ class ContactForm extends ComponentBase{
                 ->subject(Settings::get('subject'));
         });
 
+        $this->page["confirmation_text_headline"] = Settings::get('confirmation_text_headline');
         $this->page["confirmation_text"] = Settings::get('confirmation_text');
         return ['error' => false];
     }
