@@ -13,7 +13,7 @@ return [
         'subject'                   => 'Betreff',
         'subject_comment'           => 'Der Bretreff der Email die Sie erhalten',
         'subject_desc'              => 'Der Bretreff der Email die Sie erhalten',
-        'confirmation_text_headline'         => 'Das Kontaktformular wurde versandt.',
+        'confirmation_text_headline'         => 'Überschrift Bestätigungstext',
         'confirmation_text_headline_comment' => 'Die Überschrift nach absenden des Formulars',
         'confirmation_text_headline_desc'    => 'Die Überschrift nach absenden des Formulars',
         'confirmation_text'         => 'Bestätigungstext',

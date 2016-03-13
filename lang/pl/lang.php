@@ -13,7 +13,7 @@ return [
         'subject'                   => 'Temat',
         'subject_comment'           => 'Temat wiadomości, która pojawi się w skrzynce po użyciu formularza',
         'subject_desc'              => 'Temat wiadomości, która pojawi się w skrzynce po użyciu formularza',
-        'confirmation_text_headline'         => 'Email Sent successfully',
+        'confirmation_text_headline'         => 'Tekst potwierdzający (Headline)',
         'confirmation_text_headline_comment' => 'The headline shown to user after contacting you',
         'confirmation_text_headline_desc'    => 'The headline shown to user after contacting you',
         'confirmation_text'         => 'Tekst potwierdzający',

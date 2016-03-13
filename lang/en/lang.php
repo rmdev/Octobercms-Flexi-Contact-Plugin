@@ -13,7 +13,7 @@ return [
         'subject'                   => 'Subject',
         'subject_comment'           => 'The subject of the email you receive after being contacted',
         'subject_desc'              => 'The subject of the email you receive after being contacted',
-        'confirmation_text_headline'         => 'Email Sent successfully',
+        'confirmation_text_headline'         => 'Confirmation text headline',
         'confirmation_text_headline_comment' => 'The headline shown to user after contacting you',
         'confirmation_text_headline_desc'    => 'The headline shown to user after contacting you',
         'confirmation_text'         => 'Confirmation text',
